@@ -1,0 +1,165 @@
+/* CSS PADRAO DE TODAS AS PAGINAS*/
+
+body { background: #FFE4C4;
+        font-family: verdana;
+  
+
+     
+        
+        
+}
+
+#slogan {margin-left: 50px;
+        position: relative;
+        color:yellow;
+        font-family: cursive;
+        
+}
+
+div{    
+        margin-left: 150px;
+        margin-right: 150px;
+        margin-top: 10px;
+        text-align: center;}
+
+
+
+.login {
+        color:yellow;
+        
+}
+
+
+nav {   border: 1px solid black;
+        position: relative;
+        background-color: #1C1C1C;
+        width: 100%;
+        height: 100px;
+        
+    
+        
+}
+
+nav ul{
+        
+        list-style-type: none;
+        right: 10px;
+}
+
+nav ul li{
+        display: inline;
+        border: 1px solid agua;
+        margin: 0px 20px 5px 5px;
+        color: #EE7600;
+        float: right;
+        position: relative;
+        
+}
+
+nav ul li a{
+    display: block;
+    color:yellow;
+    padding: 10px 16px;
+    text-decoration: none;
+    
+}
+
+
+nav li a:hover{
+        background-color: #555;
+        color: white;
+}
+
+footer{
+        border: 1px solid black;
+        background-color: #1C1C1C;
+        text-align: center;
+        height: 100px;
+        position: relative;
+        bottom: 0;
+        width: 100%;
+        margin-top: 10px;
+        
+        
+        
+        
+}
+
+footer h3{
+    color: yellow;
+}
+
+form{
+        
+        position: relative;
+        margin-bottom: 3px;
+        margin-top: 0;
+        margin-left: 50px;
+        
+       
+        
+        
+}
+
+
+
+section{
+       
+        margin-left: 150px;
+        margin-right: 150px;
+        margin-top: 10px;
+        min-height:100%;
+	    position:relative;
+        
+}
+
+
+/*--------------------------- PAGINA HOME---------------------------------*/
+
+/*.artigo{
+        border: 1px solid blue;
+        height: 250px;
+        width: 500px;
+        margin: 20px;
+        float:left ;
+        text-align: center;
+        
+        
+}*/
+
+.artigo_home{
+        height: 250px;
+        width: 350px;
+        margin: 35px;
+        float: left;
+        
+        text-align: center;
+}
+
+
+/*--------------------------- PAGINA HOME---------------------------------*/
+
+.artigo_Anuncios {
+        border: 1px solid Black;
+        margin-bottom: 10px;
+}
+
+.descricao{ 
+        color: red;
+        position: relative;
+        left: 100px;
+        top: auto;
+        float: left;
+    }
+
+img{
+    position:static;
+   
+}
+
+
+
+
+
+
+
