@@ -1,4 +1,4 @@
-# moises
+# Projeto Web
 Projeto do semestre 
 Tema: Site de Vendas 
 Público-alvo: 
